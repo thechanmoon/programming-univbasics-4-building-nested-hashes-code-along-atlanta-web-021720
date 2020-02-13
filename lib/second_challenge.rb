@@ -13,8 +13,8 @@ def second_challenge
     :hero => {
       :name => "Romeo",
       :age => "15"
-  }
-  
+  },
+    :hero_friends =>[]
       }, 
     :capulet => {
       #your key/value pairs here!
@@ -30,7 +30,8 @@ def second_challenge
       :name => "Juliet",
       :age => "15",
       :status => "alive"
-    }
+    },
+    :heroine_friends =>[]
       }}
 
   
